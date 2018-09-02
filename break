@@ -2,7 +2,7 @@ public class Test {
 
    public static void main(String args[]) {
 
-      String name = "Malla";
+      String name = "Kumar";
 
       // following will return true since name is type of String
       boolean result = name instanceof String;
